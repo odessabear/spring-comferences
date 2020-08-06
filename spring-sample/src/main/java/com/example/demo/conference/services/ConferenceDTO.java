@@ -9,7 +9,7 @@ public class ConferenceDTO {
 
     String id;
     String name;
-    String vanue;
+    String venue;
     ZonedDateTime startDate;
     ZonedDateTime finishDate;
 }

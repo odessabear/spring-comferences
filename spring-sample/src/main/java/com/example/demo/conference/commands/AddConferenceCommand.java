@@ -8,7 +8,7 @@ import java.time.ZonedDateTime;
 public class AddConferenceCommand {
 
     String name;
-    String vanue;
+    String venue;
     ZonedDateTime startDate;
     ZonedDateTime finishDate;
 }
