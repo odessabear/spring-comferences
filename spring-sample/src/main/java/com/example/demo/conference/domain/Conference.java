@@ -10,7 +10,7 @@ import javax.persistence.Table;
 import java.time.ZonedDateTime;
 
 @Entity
-@Table(name = "CONFERENCE")
+//@Table(name = "conference_app")
 @Data
 @Accessors(chain = true)
 public class Conference {
